@@ -13,7 +13,14 @@ I am currently seeking an opportunity in Technology to apply my skills, gain pro
 
 ## 🌐 Where to find me
 
-<p align="left"> <img height="170" src="https://github-stats-extended.vercel.app/api?username=MatCastanha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" /> <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MatCastanha&layout=compact&theme=tokyonight" /> </p>
+<p align="left">
+  <a href="https://github.com/herbertcarnaubadesouza">
+    <img src="https://img.shields.io/badge/GitHub-MATCASTANHA-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://instagram.com/oreidosites">
+    <img src="https://img.shields.io/badge/Instagram-@MATCASTANHA-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -75,8 +82,7 @@ React - TypeScript - Vite Tailwind CSS - Firebase - Sonner
 
 ## 📊 GitHub Stats
 
-<p align="left"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=matcastanha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matcastanha&layout=compact&theme=tokyonight" /> 
-</p>
+<p align="left"> <img height="170" src="https://github-stats-extended.vercel.app/api?username=MatCastanha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" /> <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MatCastanha&layout=compact&theme=tokyonight" /> </p>
 
 ---
 
@@ -84,3 +90,5 @@ React - TypeScript - Vite Tailwind CSS - Firebase - Sonner
 
 > _"Code is not just about solving problems.  
 > It's about building solutions that scale, last, and generate real value."_
+
+---
