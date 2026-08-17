@@ -13,14 +13,7 @@ I am currently seeking an opportunity in Technology to apply my skills, gain pro
 
 ## 🌐 Where to find me
 
-<p align="left">
-  <a href="https://github.com/herbertcarnaubadesouza">
-    <img src="https://img.shields.io/badge/GitHub-MATCASTANHA-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://instagram.com/oreidosites">
-    <img src="https://img.shields.io/badge/Instagram-@MATCASTANHA-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+<p align="left"> <img height="170" src="https://github-stats-extended.vercel.app/api?username=MatCastanha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" /> <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MatCastanha&layout=compact&theme=tokyonight" /> </p>
 
 ---
 
